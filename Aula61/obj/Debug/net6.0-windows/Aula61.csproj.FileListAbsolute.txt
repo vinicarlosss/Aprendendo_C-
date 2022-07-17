@@ -1,0 +1,17 @@
+C:\Users\Carlos\Desktop\Projetos\Aprendendo_Csharp\Aula61\bin\Debug\net6.0-windows\Aula61.exe
+C:\Users\Carlos\Desktop\Projetos\Aprendendo_Csharp\Aula61\bin\Debug\net6.0-windows\Aula61.deps.json
+C:\Users\Carlos\Desktop\Projetos\Aprendendo_Csharp\Aula61\bin\Debug\net6.0-windows\Aula61.runtimeconfig.json
+C:\Users\Carlos\Desktop\Projetos\Aprendendo_Csharp\Aula61\bin\Debug\net6.0-windows\Aula61.dll
+C:\Users\Carlos\Desktop\Projetos\Aprendendo_Csharp\Aula61\bin\Debug\net6.0-windows\Aula61.pdb
+C:\Users\Carlos\Desktop\Projetos\Aprendendo_Csharp\Aula61\obj\Debug\net6.0-windows\Aula61.csproj.AssemblyReference.cache
+C:\Users\Carlos\Desktop\Projetos\Aprendendo_Csharp\Aula61\obj\Debug\net6.0-windows\Aula61.F_principal.resources
+C:\Users\Carlos\Desktop\Projetos\Aprendendo_Csharp\Aula61\obj\Debug\net6.0-windows\Aula61.csproj.GenerateResource.cache
+C:\Users\Carlos\Desktop\Projetos\Aprendendo_Csharp\Aula61\obj\Debug\net6.0-windows\Aula61.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Carlos\Desktop\Projetos\Aprendendo_Csharp\Aula61\obj\Debug\net6.0-windows\Aula61.AssemblyInfoInputs.cache
+C:\Users\Carlos\Desktop\Projetos\Aprendendo_Csharp\Aula61\obj\Debug\net6.0-windows\Aula61.AssemblyInfo.cs
+C:\Users\Carlos\Desktop\Projetos\Aprendendo_Csharp\Aula61\obj\Debug\net6.0-windows\Aula61.csproj.CoreCompileInputs.cache
+C:\Users\Carlos\Desktop\Projetos\Aprendendo_Csharp\Aula61\obj\Debug\net6.0-windows\Aula61.dll
+C:\Users\Carlos\Desktop\Projetos\Aprendendo_Csharp\Aula61\obj\Debug\net6.0-windows\refint\Aula61.dll
+C:\Users\Carlos\Desktop\Projetos\Aprendendo_Csharp\Aula61\obj\Debug\net6.0-windows\Aula61.pdb
+C:\Users\Carlos\Desktop\Projetos\Aprendendo_Csharp\Aula61\obj\Debug\net6.0-windows\Aula61.genruntimeconfig.cache
+C:\Users\Carlos\Desktop\Projetos\Aprendendo_Csharp\Aula61\obj\Debug\net6.0-windows\ref\Aula61.dll
