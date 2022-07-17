@@ -1,0 +1,17 @@
+C:\Users\Carlos\Desktop\Projetos\Aprendendo_Csharp\Componentes\Componentes\bin\Debug\net6.0-windows\Componentes.exe
+C:\Users\Carlos\Desktop\Projetos\Aprendendo_Csharp\Componentes\Componentes\bin\Debug\net6.0-windows\Componentes.deps.json
+C:\Users\Carlos\Desktop\Projetos\Aprendendo_Csharp\Componentes\Componentes\bin\Debug\net6.0-windows\Componentes.runtimeconfig.json
+C:\Users\Carlos\Desktop\Projetos\Aprendendo_Csharp\Componentes\Componentes\bin\Debug\net6.0-windows\Componentes.dll
+C:\Users\Carlos\Desktop\Projetos\Aprendendo_Csharp\Componentes\Componentes\bin\Debug\net6.0-windows\Componentes.pdb
+C:\Users\Carlos\Desktop\Projetos\Aprendendo_Csharp\Componentes\Componentes\obj\Debug\net6.0-windows\Componentes.csproj.AssemblyReference.cache
+C:\Users\Carlos\Desktop\Projetos\Aprendendo_Csharp\Componentes\Componentes\obj\Debug\net6.0-windows\Componentes.F_Principal.resources
+C:\Users\Carlos\Desktop\Projetos\Aprendendo_Csharp\Componentes\Componentes\obj\Debug\net6.0-windows\Componentes.csproj.GenerateResource.cache
+C:\Users\Carlos\Desktop\Projetos\Aprendendo_Csharp\Componentes\Componentes\obj\Debug\net6.0-windows\Componentes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Carlos\Desktop\Projetos\Aprendendo_Csharp\Componentes\Componentes\obj\Debug\net6.0-windows\Componentes.AssemblyInfoInputs.cache
+C:\Users\Carlos\Desktop\Projetos\Aprendendo_Csharp\Componentes\Componentes\obj\Debug\net6.0-windows\Componentes.AssemblyInfo.cs
+C:\Users\Carlos\Desktop\Projetos\Aprendendo_Csharp\Componentes\Componentes\obj\Debug\net6.0-windows\Componentes.csproj.CoreCompileInputs.cache
+C:\Users\Carlos\Desktop\Projetos\Aprendendo_Csharp\Componentes\Componentes\obj\Debug\net6.0-windows\Componentes.dll
+C:\Users\Carlos\Desktop\Projetos\Aprendendo_Csharp\Componentes\Componentes\obj\Debug\net6.0-windows\refint\Componentes.dll
+C:\Users\Carlos\Desktop\Projetos\Aprendendo_Csharp\Componentes\Componentes\obj\Debug\net6.0-windows\Componentes.pdb
+C:\Users\Carlos\Desktop\Projetos\Aprendendo_Csharp\Componentes\Componentes\obj\Debug\net6.0-windows\Componentes.genruntimeconfig.cache
+C:\Users\Carlos\Desktop\Projetos\Aprendendo_Csharp\Componentes\Componentes\obj\Debug\net6.0-windows\ref\Componentes.dll
