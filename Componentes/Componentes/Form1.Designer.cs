@@ -33,6 +33,7 @@
             this.label1 = new System.Windows.Forms.Label();
             this.tb_listaVeiculos = new System.Windows.Forms.TextBox();
             this.btn_limpar = new System.Windows.Forms.Button();
+            this.btn_mostrar = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
             // btn_adicionar
@@ -80,11 +81,22 @@
             this.btn_limpar.UseVisualStyleBackColor = true;
             this.btn_limpar.Click += new System.EventHandler(this.btn_limpar_Click);
             // 
+            // btn_mostrar
+            // 
+            this.btn_mostrar.Location = new System.Drawing.Point(12, 344);
+            this.btn_mostrar.Name = "btn_mostrar";
+            this.btn_mostrar.Size = new System.Drawing.Size(251, 23);
+            this.btn_mostrar.TabIndex = 5;
+            this.btn_mostrar.Text = "Mostrar Veículos";
+            this.btn_mostrar.UseVisualStyleBackColor = true;
+            this.btn_mostrar.Click += new System.EventHandler(this.btn_mostrar_Click);
+            // 
             // F_Principal
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 15F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(280, 348);
+            this.ClientSize = new System.Drawing.Size(280, 372);
+            this.Controls.Add(this.btn_mostrar);
             this.Controls.Add(this.btn_limpar);
             this.Controls.Add(this.tb_listaVeiculos);
             this.Controls.Add(this.label1);
@@ -108,5 +120,6 @@
         private Label label1;
         private TextBox tb_listaVeiculos;
         private Button btn_limpar;
+        private Button btn_mostrar;
     }
 }

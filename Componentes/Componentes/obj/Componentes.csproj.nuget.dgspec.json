@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Carlos\\Desktop\\Projetos\\Aprendendo_Csharp\\Componentes\\Componentes\\Componentes.csproj": {}
+    "C:\\Users\\carlos.vinicius\\Desktop\\Projetos\\Aprendendo_Csharp\\Componentes\\Componentes\\Componentes.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Carlos\\Desktop\\Projetos\\Aprendendo_Csharp\\Componentes\\Componentes\\Componentes.csproj": {
+    "C:\\Users\\carlos.vinicius\\Desktop\\Projetos\\Aprendendo_Csharp\\Componentes\\Componentes\\Componentes.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Carlos\\Desktop\\Projetos\\Aprendendo_Csharp\\Componentes\\Componentes\\Componentes.csproj",
+        "projectUniqueName": "C:\\Users\\carlos.vinicius\\Desktop\\Projetos\\Aprendendo_Csharp\\Componentes\\Componentes\\Componentes.csproj",
         "projectName": "Componentes",
-        "projectPath": "C:\\Users\\Carlos\\Desktop\\Projetos\\Aprendendo_Csharp\\Componentes\\Componentes\\Componentes.csproj",
-        "packagesPath": "C:\\Users\\Carlos\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Carlos\\Desktop\\Projetos\\Aprendendo_Csharp\\Componentes\\Componentes\\obj\\",
+        "projectPath": "C:\\Users\\carlos.vinicius\\Desktop\\Projetos\\Aprendendo_Csharp\\Componentes\\Componentes\\Componentes.csproj",
+        "packagesPath": "C:\\Users\\carlos.vinicius\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\carlos.vinicius\\Desktop\\Projetos\\Aprendendo_Csharp\\Componentes\\Componentes\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Carlos\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\carlos.vinicius\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
