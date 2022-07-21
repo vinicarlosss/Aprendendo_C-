@@ -33,3 +33,6 @@ C:\Users\carlos.vinicius\Desktop\Projetos\Aprendendo_Csharp\Componentes\Componen
 C:\Users\carlos.vinicius\Desktop\Projetos\Aprendendo_Csharp\Componentes\Componentes\obj\Debug\net6.0-windows\Componentes.pdb
 C:\Users\carlos.vinicius\Desktop\Projetos\Aprendendo_Csharp\Componentes\Componentes\obj\Debug\net6.0-windows\Componentes.genruntimeconfig.cache
 C:\Users\carlos.vinicius\Desktop\Projetos\Aprendendo_Csharp\Componentes\Componentes\obj\Debug\net6.0-windows\ref\Componentes.dll
+C:\Users\Carlos\Desktop\Projetos\Aprendendo_Csharp\Componentes\Componentes\obj\Debug\net6.0-windows\Componentes.F_CheckBox.resources
+C:\Users\Carlos\Desktop\Projetos\Aprendendo_Csharp\Componentes\Componentes\obj\Debug\net6.0-windows\Componentes.F_Veiculos.resources
+C:\Users\Carlos\Desktop\Projetos\Aprendendo_Csharp\Componentes\Componentes\obj\Debug\net6.0-windows\Componentes.F_CheckedListBox.resources
